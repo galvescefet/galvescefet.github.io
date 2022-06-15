@@ -1,0 +1,49 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.cefet{
+    font-size: larger;
+    padding-right: 1200px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.cabecalho2{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    border: 1px solid;
+    justify-content: space-around;
+    margin-right: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 70px;
+}
+
+.cabecalho2 li a {
+    text-decoration: none;
+    margin-right: 25px;
+}
+.quadro{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    width: 500px;
+    
+}
+.botao{
+    text-decoration: none;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.695);
+    color: aliceblue;
+    border: 1px solid white;
+    border-radius: 10%;
+    padding: 5px;
+}
+.main{
+    padding-left: 33%;
+}
