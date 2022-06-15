@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: #dddddd;
+}
+
+#tarifatitulo{
+    font-size: xx-large;
+    margin-right: 45px;
+}
+#tarifacarro{
+    display: flex;
+    color: red;
+}
+#carro{
+    width: 230px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+#fundov{
+    padding: 10px;
+    color: red;
+    background-color: #FFFFCC;
+}
+#fundot{
+    padding: 10px;
+    color: red;
+    background-color: orange;
+}
